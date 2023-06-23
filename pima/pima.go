@@ -1,6 +1,7 @@
 package main
 
 func main() {
-	pimaeda()
+	// pimaeda()
 	pimaknn()
+	// csvurltest()
 }
