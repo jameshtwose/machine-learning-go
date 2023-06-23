@@ -3,6 +3,7 @@ module github.com/jameshtwose/machine-learning-go
 go 1.19
 
 require (
+	github.com/rocketlaunchr/dataframe-go v0.0.0-20201007021539-67b046771f0b // indirect
 	github.com/sjwhitworth/golearn v0.0.0-20211014193759-a8b69c276cd8
 	gonum.org/v1/plot v0.0.0-20190515093506-e2840ee46a6b
 )
